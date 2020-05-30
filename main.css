@@ -42,11 +42,11 @@ nav li {
 }
 
 nav a {
-  color: rgb(0, 0, 0);
+  color: rgb(105, 105, 105);
   text-decoration: none;
   text-transform: uppercase;
   font-size: 1.75vw;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .active{
@@ -55,18 +55,18 @@ nav a {
 
 p1{
   position: absolute;
-  color: rgb(21, 124, 28);
+  color: rgb(105, 105, 105);
   font-size: 5vw;
-  font-family: cursive;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   left: 50%;
   transform: translateX(-50%);
   top: 125px;
 }
 p2{
   position: absolute;
-  color: rgb(21, 124, 28);
+  color: rgb(105, 105, 105);
   font-size: 6vw;
-  font-family: cursive;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
   left: 15%;
   top: 200px;
